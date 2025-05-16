@@ -1,0 +1,5 @@
+My Frontend Development Journey
+
+Hi, I.m Saheed Oladimeji Yusuf, a passionate frontend developer with a background in Public Health. This folder captures the essence of my journey, from initial learning to building real-world applications. It documents my skills, projects, tools, and goals.
+
+Let’s dive in!
